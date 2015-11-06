@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "appPath": "src",
   "dependencies": {
-    "adaptiveme": "<%= adaptiveversion %>",
+    "adaptiveme": "<%= engineversion %>",
     "modernizr": "2.8.3",
     "jquery": "1.11.2",
     "bootstrap": "3.3.1"
